@@ -3,5 +3,5 @@ variable "ami_something" {
 }
 
 variable "instance_type" {
-    default = "t3.medium"
+    default = "t3.large"
 }
